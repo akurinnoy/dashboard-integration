@@ -1,0 +1,7 @@
+{
+  "name": "@eclipse-che/dashboard",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
