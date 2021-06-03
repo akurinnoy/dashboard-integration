@@ -1,0 +1,7 @@
+.theia/
+.idea/
+.deps/tmp/
+
+node_modules/
+lib/
+coverage/
