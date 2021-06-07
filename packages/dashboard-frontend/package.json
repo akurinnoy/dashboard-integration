@@ -1,5 +1,5 @@
 {
-  "name": "che-dashboard",
+  "name": "@eclipse-che/dashboard-frontend",
   "version": "7.32.0-SNAPSHOT",
   "description": "Dashboard for Eclipse CHE",
   "private": true,
